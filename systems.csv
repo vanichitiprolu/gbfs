@@ -1078,7 +1078,7 @@ US,Lyft Scooters Chicago,"Chicago, IL",chicago,https://www.divvybikes.com,https:
 US,El Paso B-cycle,"El Paso, TX",bcycle_elpaso,https://elpaso.bcycle.com,https://gbfs.bcycle.com/bcycle_elpaso/gbfs.json,1.1,
 US,Evie Carshare,"Twin Cities, MN",9b0e8df6-141e-11ee-be56-0242ac120002,https://eviecarshare.com/,https://gbfs.vulog.io/mds/fleets/HOURCAR-USMSP/gbfs/1/en/gbfs.json,2.1,
 US,Explore Bike Share,"Memphis, TN",bcycle_memphis,https://explorebikeshare.bcycle.com,https://gbfs.bcycle.com/bcycle_memphis/gbfs.json,1.1,
-US,Fort Worth Bike Sharing,"Fort Worth, TX",bcycle_fortworth,https://fortworth.bcycle.com,https://gbfs.bcycle.com/bcycle_fortworth/gbfs.json,1.1,
+US,Trinity Metro Bikes,"Fort Worth, TX",bcycle_fortworth,https://ridetrinitymetro.org/bikes/,https://fortworth.publicbikesystem.net/customer/gbfs/v2/gbfs.json,2.3,
 US,GREENbike,"Salt Lake City, UT",bcycle_greenbikeslc,https://greenbikeslc.org,https://gbfs.bcycle.com/bcycle_greenbikeslc/gbfs.json,1.1,
 US,Greenville B-cycle,"Greenville, SC",bcycle_greenville,https://greenville.bcycle.com,https://gbfs.bcycle.com/bcycle_greenville/gbfs.json,1.1,
 US,Heartland B-cycle,"Omaha, NE",bcycle_heartland,https://heartland.bcycle.com,https://gbfs.bcycle.com/bcycle_heartland/gbfs.json,1.1,
